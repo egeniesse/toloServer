@@ -1,0 +1,12 @@
+### INTELLIJ ###
+.idea/
+*.iml
+
+
+### NODE ###
+build/
+dist/
+node_modules/
+passwords.txt
+
+*/.DS_Store
